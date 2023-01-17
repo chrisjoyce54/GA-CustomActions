@@ -1,0 +1,5 @@
+name: 'Deploy'
+description: Deploy static web site'
+runs:
+  using: 'node16'
+  main: 'index.js'
